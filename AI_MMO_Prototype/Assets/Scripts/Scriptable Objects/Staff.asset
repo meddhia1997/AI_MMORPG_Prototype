@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: Staff
   m_EditorClassIdentifier: 
   weaponPrefab: {fileID: 6900948809995915523, guid: 38cb60d33902a9e45b16e4d8e3b78cf1, type: 3}
-  weaponCooldown: 1.2
-  weaponDamage: 3
-  weaponRange: 8
+  weaponCooldown: 1.5
+  weaponDamage: 5
+  weaponRange: 10
   noDamageTags:
   - Slime

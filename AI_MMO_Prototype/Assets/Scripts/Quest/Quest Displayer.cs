@@ -63,6 +63,7 @@ private string ExtractInstructions(string text)
         yield return new WaitForSeconds(2);
 
         questDisplay.gameObject.SetActive(false);
+        tmpText.text = "Am thinking ...";
 
     }
 }
