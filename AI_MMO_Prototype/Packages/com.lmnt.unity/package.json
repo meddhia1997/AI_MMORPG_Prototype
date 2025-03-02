@@ -9,6 +9,7 @@
   "changelogUrl": "https://r.lmnt.com/unity/changelog",
   "licensesUrl": "https://r.lmnt.com/unity/licenses",
   "dependencies": {
+    "com.lmnt.unity": "file:"
   },
   "keywords": [
     "dialogue",
