@@ -75,14 +75,7 @@ Before setting up the backend, ensure you have the following installed:
 - **Local MongoDB:**  
   Ensure MongoDB is installed and running on your machine.
 
-- **MongoDB Atlas:**  
-  Create an account, set up a cluster, and obtain your connection string.
 
-- **Configure Environment Variables:**  
-  In the backend project directory, create a `.env` file (if it doesn’t exist) and add:
-  ```bash
-  MONGO_URI=your_mongo_database_connection_url_here
-  ```
 
 ### 4. Running the Backend Server
 
